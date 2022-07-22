@@ -1,0 +1,25 @@
+.ex {
+    background-color: antiquewhite;
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.ex button {
+    font-size: 18px;
+    padding: 5px 10px;
+    background-color: rgb(102, 206, 102);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
+.ex input {
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+}
